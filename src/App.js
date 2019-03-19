@@ -65,7 +65,7 @@ class App extends Component {
           score={this.state.score}
           topScore={this.state.topScore}>
         </NavBar>
-        <BrowserRouter basename="/clicky-game/" />
+        {/* <BrowserRouter basename="/clicky-game/" /> */}
         <Wrapper>
         <div className="container d-flex flex-row flex-wrap mx-auto justify-content-center my-5">
           {this.state.images.map((url, i) => (
