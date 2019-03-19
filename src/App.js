@@ -17,7 +17,7 @@ class App extends Component {
       "./assets/images/beth.jpg",
       "./assets/images/jerry.jpg",
       "./assets/images/summer.jpg",
-      "./assets/images/evil-morty.jpg",
+      "./assets/images/evil-morty.JPG",
       "./assets/images/mr-meeseks.jpg",
       "./assets/images/Scaryterryrm.png",
       "./assets/images/squanchy.jpg",
