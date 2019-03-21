@@ -1,14 +1,14 @@
 {
-  "main.css": "/clicky-game/static/css/main.07c2a332.chunk.css",
-  "main.js": "/clicky-game/static/js/main.376da3bb.chunk.js",
-  "main.js.map": "/clicky-game/static/js/main.376da3bb.chunk.js.map",
+  "main.css": "/clicky-game/static/css/main.3b3a404c.chunk.css",
+  "main.js": "/clicky-game/static/js/main.c902578e.chunk.js",
+  "main.js.map": "/clicky-game/static/js/main.c902578e.chunk.js.map",
   "runtime~main.js": "/clicky-game/static/js/runtime~main.27874bd3.js",
   "runtime~main.js.map": "/clicky-game/static/js/runtime~main.27874bd3.js.map",
-  "static/js/2.40ad7508.chunk.js": "/clicky-game/static/js/2.40ad7508.chunk.js",
-  "static/js/2.40ad7508.chunk.js.map": "/clicky-game/static/js/2.40ad7508.chunk.js.map",
+  "static/js/2.ad30d6df.chunk.js": "/clicky-game/static/js/2.ad30d6df.chunk.js",
+  "static/js/2.ad30d6df.chunk.js.map": "/clicky-game/static/js/2.ad30d6df.chunk.js.map",
   "index.html": "/clicky-game/index.html",
-  "precache-manifest.80cd79d0491a2348faab1a19218d85ef.js": "/clicky-game/precache-manifest.80cd79d0491a2348faab1a19218d85ef.js",
+  "precache-manifest.8dcd10282de21b36ec8682c4ad80810b.js": "/clicky-game/precache-manifest.8dcd10282de21b36ec8682c4ad80810b.js",
   "service-worker.js": "/clicky-game/service-worker.js",
-  "static/css/main.07c2a332.chunk.css.map": "/clicky-game/static/css/main.07c2a332.chunk.css.map",
+  "static/css/main.3b3a404c.chunk.css.map": "/clicky-game/static/css/main.3b3a404c.chunk.css.map",
   "static/media/style.css": "/clicky-game/static/media/rick_and_morty_background_no_4_by_jurokoo-dahrvd7 15-19-47-948.b5eb2002.png"
 }
