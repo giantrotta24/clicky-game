@@ -7,4 +7,10 @@
     width: 100%;
     z-index: 99;
     white-space: nowrap;
+    color: white;
+}
+
+
+.text-success, .text-danger {
+    transition: color 0.25s !important;
 }
